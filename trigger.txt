@@ -1,1 +1,1 @@
-nyanmisaka/jellyfin:240401-amd64 registry.cn-hangzhou.aliyuncs.com/pixelw/nyanmisaka/jellyfin:240401-amd64
+nyanmisaka/jellyfin:240401-amd64 registry.cn-hangzhou.aliyuncs.com/pixelw/jellyfin:240401-amd64
