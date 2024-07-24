@@ -1,1 +1,1 @@
-nyanmisaka/jellyfin:240401-amd64 registry.cn-hangzhou.aliyuncs.com/pixelw/jellyfin:240401-amd64
+fredliang/derper:208878d628c7c6cad604da7798b6deee3894c7a6 registry.cn-hangzhou.aliyuncs.com/pixelw/derper:208878d628c7c6cad604da7798b6deee3894c7a6
