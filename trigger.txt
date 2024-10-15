@@ -1,1 +1,1 @@
-nginx:1.24.0 registry.cn-hangzhou.aliyuncs.com/pixelw/nginx:1.24.0
+portainer:1.23.2 registry.cn-hangzhou.aliyuncs.com/pixelw/portainer:1.23.2
