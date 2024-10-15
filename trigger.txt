@@ -1,1 +1,1 @@
-mysql:5.7.36 registry.cn-hangzhou.aliyuncs.com/pixelw/mysql:5.7.36
+portainer/portainer:1.23.2 registry.cn-hangzhou.aliyuncs.com/pixelw/portainer:1.23.2
