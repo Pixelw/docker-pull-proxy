@@ -1,1 +1,1 @@
-networkstatic/iperf3:latest registry.cn-hangzhou.aliyuncs.com/pixelw/iperf3:latest
+xgheaven/homebox:latest registry.cn-hangzhou.aliyuncs.com/pixelw/homebox:latest
