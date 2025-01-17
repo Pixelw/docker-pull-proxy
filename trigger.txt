@@ -1,1 +1,1 @@
-xgheaven/homebox:latest registry.cn-hangzhou.aliyuncs.com/pixelw/homebox:latest
+e7db/geekbench:latest registry.cn-hangzhou.aliyuncs.com/pixelw/e7db/geekbench:latest
