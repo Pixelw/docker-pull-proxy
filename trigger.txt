@@ -1,1 +1,1 @@
-e7db/geekbench:latest registry.cn-hangzhou.aliyuncs.com/pixelw/e7db/geekbench:latest
+e7db/geekbench:latest registry.cn-hangzhou.aliyuncs.com/pixelw/geekbench:latest
