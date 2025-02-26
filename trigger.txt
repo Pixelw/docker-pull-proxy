@@ -1,1 +1,1 @@
-caddy:2.9.1 registry.cn-hangzhou.aliyuncs.com/pixelw/caddy:2.9.1
+caddy:2.9.1-builder registry.cn-hangzhou.aliyuncs.com/pixelw/caddy:2.9.1-builder
