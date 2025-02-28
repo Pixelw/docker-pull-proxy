@@ -1,1 +1,1 @@
-caddy:2.9.1-builder registry.cn-hangzhou.aliyuncs.com/pixelw/caddy:2.9.1-builder
+fredliang/derper:e14b2ba3bd4239718cd05ecf4ca5d81060517d5d registry.cn-hangzhou.aliyuncs.com/pixelw/fredliang/derper:e14b2ba3bd4239718cd05ecf4ca5d81060517d5d
