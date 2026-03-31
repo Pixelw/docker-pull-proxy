@@ -1,1 +1,1 @@
-fredliang/derper:e14b2ba3bd4239718cd05ecf4ca5d81060517d5d registry.cn-hangzhou.aliyuncs.com/pixelw/fredliang/derper:e14b2ba3bd4239718cd05ecf4ca5d81060517d5d
+homeassistant/home-assistant:2026.2.3 registry.cn-hangzhou.aliyuncs.com/pixelw/homeassistant/home-assistant:2026.2.3
