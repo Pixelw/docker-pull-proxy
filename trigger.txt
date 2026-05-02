@@ -1,1 +1,1 @@
-portainer/portainer-ce:lts registry.cn-hangzhou.aliyuncs.com/pixelw/portainer-ce:lts
+giof71/gmrender-resurrect:latest registry.cn-hangzhou.aliyuncs.com/pixelw/gmrender-resurrect:latest
