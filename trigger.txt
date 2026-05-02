@@ -1,1 +1,1 @@
-giof71/gmrender-resurrect:latest registry.cn-hangzhou.aliyuncs.com/pixelw/gmrender-resurrect:latest
+mikebrady/shairport-sync:latest registry.cn-hangzhou.aliyuncs.com/pixelw/shairport-sync:latest
